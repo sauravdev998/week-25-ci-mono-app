@@ -1,0 +1,15 @@
+{
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "typescript.tsserver.web.projectWideIntellisense.suppressSemanticErrors": false,
+  "typescript.disableAutomaticTypeAcquisition": true,
+  "editor.suggest.preview": true
+}
